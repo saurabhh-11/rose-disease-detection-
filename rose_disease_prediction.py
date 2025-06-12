@@ -7,7 +7,7 @@ import os
 import textwrap
 
 # Constants
-MODEL_PATH = "F:\Data Analyst proj\Rose_leaf\custom_cnn_rose_disease_model.h5"  # Model file in the same directory
+MODEL_PATH = "custom_cnn_rose_disease_model.h5"  # Model file in the same directory
 
 # Language dictionaries
 LANGUAGES = {
